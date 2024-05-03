@@ -26,7 +26,9 @@
   
   ##
 
-
+`Estudande de hacking por hobbie, jogo apenas CTF no try hack me, compartilho scripts que eu encontro e consigo fazer funcionar pois ficar quardando script ocupa muito espaço,
+então quando eu fizer um script que vai ser em python mesmo irei postar aqui para que pessoa possam estar atualizando com mais funções.
+ Não me pedem ajuda pois não posso ensinar coisas que eu não, ajudarei naquilo que eu conheço e eu tenho 'Livre Arbítrio' para aceitar ajudar ou não.`
  
 <div> 
  <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
