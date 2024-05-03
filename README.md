@@ -28,7 +28,13 @@
   
   ##
  
+ 
 <div> 
  <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+![1980x1100-px-artwork-chromatic-aberration-hoods-minimalism-simple-background-nature-sky-hd-art-wallpaper-preview](https://github.com/00fleck/00fleck/assets/70480704/ce4746b0-9dcf-4d56-9c71-8c6d7c99dded)
+
+
