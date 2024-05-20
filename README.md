@@ -40,9 +40,6 @@ então quando eu fizer um script que vai ser em python mesmo irei postar aqui pa
 
   ##
 
- 
-
-![conheca-todos-os-filmes-do-homem-invisivel-tricurioso](https://github.com/00fleck/00fleck/assets/70480704/5affa279-6787-41d2-ab38-1c07fcd0e5ef)
 
 ![proxy-image](https://github.com/00fleck/00fleck/assets/70480704/88293ed8-6229-4f0d-ab39-5b86113b536a)
 
